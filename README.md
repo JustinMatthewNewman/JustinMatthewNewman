@@ -81,11 +81,11 @@
 </details>
 <br />
 
-## LIVE
+## LIVE APPS
 
-- CSCODE <a href='https://cscode.org'>HERE</a>
-- MelodifyLabs <a href='https://Melodifylabs.com'>HERE</a>
-- JMUDEV <a href='https://jmudev.com'>HERE</a>
+CSCODE <a href='https://cscode.org'>HERE</a>
+MelodifyLabs <a href='https://Melodifylabs.com'>HERE</a>
+JMUDEV <a href='https://jmudev.com'>HERE</a>
 
 
 ## :handshake: Contact
