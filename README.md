@@ -49,7 +49,6 @@
     </tr>
 </table>
 </div>
-<div align="center">
 
 <details>
   <summary>HOT🔥</summary>
@@ -81,6 +80,10 @@
 
   </ul>
 </details>
+
+<div align="center">
+
+
 <br />
 
 ## LIVE APPS
