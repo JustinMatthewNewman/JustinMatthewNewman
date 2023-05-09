@@ -21,7 +21,6 @@
 
 
 
-  <h1>Tech Stack</h2>
   
 <table>
     <tr>
