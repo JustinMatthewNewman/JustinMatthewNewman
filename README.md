@@ -18,7 +18,7 @@
 ### :camera: Screenshots
 
 <div align="center">
-<a href="https://text-to-song.vercel.app" target="_blank"><img  src='https://raw.githubusercontent.com/JustinMatthewNewman/geoJson/main/song-gpt.png' alt='image'/></a>
+<a href="https://text-to-song.vercel.app" target="_blank"><img  src='https://drive.google.com/uc?export=download&id=1iH10nQGoyFWLC0Gk531kDEtHYURsHLo8' alt='image'/></a>
 </div>
 
 ## <a href="https://text-to-song.vercel.app" target="_blank">LIVE DEMO 💥</a>
