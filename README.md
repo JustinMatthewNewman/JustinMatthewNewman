@@ -3,12 +3,18 @@
   <h3>Founder of MelodifyLabs, Data Analyst, Software Engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
-  <a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-  <a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
+
+<a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
+
 </div>
-<br/>
+
+<br />
+
+
 ## :star2: About Justin
 
+<!-- Screenshots -->
 ### :camera: Screenshots
 
 <div align="center">
