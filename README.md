@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://drive.google.com/uc?export=download&id=1fj7OO7X2uFYOI0zM5ZfjYB27vdI43qEr" alt="logo" width="205" height="auto" />
+  <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
 
   <h1>Justin Newman</h1>
   
