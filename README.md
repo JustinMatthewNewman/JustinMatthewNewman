@@ -19,7 +19,7 @@
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/for-you.svg)</a>
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)</a>
 
-</div>
+
 
 #:space_invader: Tech Stack
 <details>
@@ -254,3 +254,5 @@ Project Link: [https://github.com/JustinMatthewNewman/text-to-song.git](https://
 <br />
 
 <div align="center">Don't forget to leave a star ⭐️</div>
+  
+  </div>
