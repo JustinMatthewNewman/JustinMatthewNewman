@@ -48,6 +48,8 @@
         </td>
     </tr>
 </table>
+</div>
+<div align="center">
 
 <details>
   <summary>HOT🔥</summary>
