@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
-  <h1>Justin Newman</h1>
-  <h3>Founder of MelodifyLabs, Software engineering Intern with Metalinguist.</h3>
+  <h1>Justin Matthew Newman</h1>
+  <h3>Founder of MelodifyLabs, Data Analyst, Software engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
 
 <a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
