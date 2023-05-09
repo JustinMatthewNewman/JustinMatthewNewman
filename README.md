@@ -3,18 +3,11 @@
   <h3>Founder of MelodifyLabs, Data Analyst, Software Engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
-
-<a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-<a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
-
+  <a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+  <a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
 </div>
-
-<br />
-
-
+<br/>
 ## :star2: About Justin
-
-<!-- Screenshots -->
 
 ### :camera: Screenshots
 
@@ -29,14 +22,24 @@
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)</a>
 
 ### :space_invader: Tech Stack
-
 <details>
-  <summary>Client</summary>
+  <summary>HOT🔥</summary>
   <ul>
-    <li><a href="https://#/">Typescript</a></li>
+    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
     <li><a href="https://nextjs.org/">Next.js</a></li>
     <li><a href="https://reactjs.org/">React.js</a></li>
     <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
+    <li><a href="https://firebase.google.com/">Firebase</a></li>
+  </ul>
+</details>
+<details>
+  <summary>Additional Skills</summary>
+  <ul>
+    <li><a href="https://www.java.com/">Java</a></li>
+    <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://www.linux.org/">Linux</a></li>
+    <li><a href="https://git-scm.com/">Git</a></li>
+    <li><a href="https://www.rstudio.com/">RStudio</a></li>
   </ul>
 </details>
 
