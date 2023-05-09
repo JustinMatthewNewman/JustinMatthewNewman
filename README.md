@@ -14,14 +14,6 @@
 
 ## :star2: About Justin
 
-<!-- Screenshots -->
-### :camera: Screenshots
-
-<div align="center">
-<a href="https://text-to-song.vercel.app" target="_blank">  <img src="https://drive.google.com/uc?export=download&id=1iH10nQGoyFWLC0Gk531kDEtHYURsHLo8" alt="logo" width="205" height="auto" />
-</a>
-</div>
-
 ## <a href="https://text-to-song.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)</a>
