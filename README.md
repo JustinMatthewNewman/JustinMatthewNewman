@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Justin Newman</h1>
-  ## efficient, persistent, innovative, collaborative.
+  efficient, persistent, innovative, collaborative.
   <h3>Founder of MelodifyLabs, Data Analyst, Software Engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
