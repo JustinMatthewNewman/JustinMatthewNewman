@@ -21,7 +21,7 @@
 
 
 
-#:space_invader: Tech Stack
+  <h1>Tech Stack</h2>
 <details>
   <summary>HOT🔥</summary>
   <ul>
