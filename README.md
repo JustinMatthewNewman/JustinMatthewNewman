@@ -81,9 +81,8 @@
 </details>
 <br />
 
-## :toolbox: Personal Projects
-
-### :bangbang: Live Apps
+## :toolbox: LIVE
+  </div>
 
 - CSCODE <a href='cscode.org'>HERE</a>
 - MelodifyLabs <a href='Melodifylabs.com'>HERE</a>
@@ -101,4 +100,3 @@ Project Link: [https://github.com/JustinMatthewNewman/text-to-song.git](https://
 
 <div align="center">Don't forget to leave a star ⭐️</div>
   
-  </div>
