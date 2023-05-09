@@ -12,7 +12,7 @@
 <br />
 
 
-## :star2: About Justin
+## :star2: efficient, persistent, innovative, collaborative.
 
 ## <a href="https://text-to-song.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
