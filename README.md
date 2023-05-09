@@ -81,12 +81,11 @@
 </details>
 <br />
 
-## :toolbox: LIVE
-  </div>
+## LIVE
 
-- CSCODE <a href='cscode.org'>HERE</a>
-- MelodifyLabs <a href='Melodifylabs.com'>HERE</a>
-- JMUDEV <a href='jmudev.com'>HERE</a>
+- CSCODE <a href='https://cscode.org'>HERE</a>
+- MelodifyLabs <a href='https://Melodifylabs.com'>HERE</a>
+- JMUDEV <a href='https://jmudev.com'>HERE</a>
 
 
 ## :handshake: Contact
@@ -99,4 +98,5 @@ Project Link: [https://github.com/JustinMatthewNewman/text-to-song.git](https://
 <br />
 
 <div align="center">Don't forget to leave a star ⭐️</div>
-  
+    </div>
+
