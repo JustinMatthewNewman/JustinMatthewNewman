@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Justin Newman</h1>
-  <h3>Founder of MelodifyLabs, Data Analyst, Software engineering Intern with Metalinguist LLC.</h3>
+  <h3>Founder of MelodifyLabs, Data Analyst, Software Engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
 
@@ -11,22 +11,6 @@
 
 <br />
 
-<!-- Table of Contents -->
-
-## :notebook_with_decorative_cover: Who am I?
-
-- [About the Project](#star2-about-the-project)
-  - [Screenshots](#camera-screenshots)
-  - [Tech Stack](#space_invader-tech-stack)
-  - [Environment Variables](#key-environment-variables)
-- [Getting Started](#toolbox-getting-started)
-  - [Prerequisites](#bangbang-prerequisites)
-  - [Installation](#gear-installation)
-  - [Run Locally](#running-run-locally)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [Contact](#handshake-contact)
-
-<!-- About the Project -->
 
 ## :star2: About Justin
 
