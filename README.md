@@ -11,9 +11,10 @@
 
 <br />
 
+<div align="center">
 
 ## efficient, persistent, innovative, collaborative.
-
+</div>
 ## <a href="https://text-to-song.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)</a>
