@@ -1,28 +1,12 @@
 <div align="center">
-
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
-
   <h1>Justin Newman</h1>
-  <h3>
-Founder of MelodifyLabs, Software engineering Intern with Metalinguist. 
-  </h3>
-  
-  
-<!-- Badges -->
+  <h3>Founder of MelodifyLabs, Software engineering Intern with Metalinguist.</h3>
+  <!-- Badges -->
 
-<a href="https://text-to-song.vercel.app" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-<a href="https://text-to-song.vercel.app" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
+<a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
 
-
-<!-- <h4>
-    <a href="https://text-to-song.vercel.app">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Rythm-/blob/master/README.md">Documentation</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Rythm-/issues">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/SashenJayathilaka/Rythm-/issues">Request Feature</a>
-  </h4> -->
 </div>
 
 <br />
