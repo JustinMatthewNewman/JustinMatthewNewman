@@ -1,5 +1,6 @@
 <div align="center">
   <h1>Justin Newman</h1>
+  ## efficient, persistent, innovative, collaborative.
   <h3>Founder of MelodifyLabs, Data Analyst, Software Engineering Intern with Metalinguist LLC.</h3>
   <!-- Badges -->
   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
@@ -12,14 +13,13 @@
 <br />
 
 <div align="center">
-
-## efficient, persistent, innovative, collaborative.
-</div>
 ## <a href="https://text-to-song.vercel.app" target="_blank">LIVE DEMO 💥</a>
 
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)</a>
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/for-you.svg)</a>
 <a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)</a>
+
+</div>
 
 #:space_invader: Tech Stack
 <details>
