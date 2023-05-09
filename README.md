@@ -41,45 +41,14 @@
 <a href="https://firebase.google.com/"><img src="https://user-images.githubusercontent.com/99184393/177784603-d69e9d02-721a-4bce-b9b3-949165d2edeb.png" alt="" width="30" height="30" /></a>
         </td>
                                             <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/204170976-0e5c6e2a-2b41-483d-adbd-d5d1e40b8d15.png" alt="" width="30" height="30" /></a>
+<a href="https://next-auth.js.org/"><img src="https://user-images.githubusercontent.com/99184393/204170976-0e5c6e2a-2b41-483d-adbd-d5d1e40b8d15.png" alt="" width="30" height="30" /></a>
         </td>
                                 <td>
-<a href="#"><img src="https://user-images.githubusercontent.com/99184393/222309201-8fe96906-fc80-4c75-b141-d18b2686055e.png" alt="" width="30" height="30" /></a>
+<a href="https://openai.com/product#made-for-developers"><img src="https://user-images.githubusercontent.com/99184393/222309201-8fe96906-fc80-4c75-b141-d18b2686055e.png" alt="" width="30" height="30" /></a>
         </td>
     </tr>
 </table>
 </div>
-
-<details>
-  <summary>HOT🔥</summary>
-  <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-    <li><a href="https://nextjs.org/">Next.js</a></li>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://tailwindcss.com/">TailwindCSS</a></li>
-    <li><a href="https://firebase.google.com/">Firebase</a></li>
-  </ul>
-</details>
-<details>
-  <summary>Additional Skills</summary>
-  <ul>
-    <li><a href="https://www.java.com/">Java</a></li>
-    <li><a href="https://www.python.org/">Python</a></li>
-    <li><a href="https://www.linux.org/">Linux</a></li>
-    <li><a href="https://git-scm.com/">Git</a></li>
-    <li><a href="https://www.rstudio.com/">RStudio</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Backend</summary>
-  <ul>
-    <li><a href="https://firebase.google.com">Firebase</a></li>
-    <li><a href="https://openai.com">OpenAI-API</a></li>
-        <li><a href="https://openai.com">MySQL</a></li>
-
-  </ul>
-</details>
 
 <div align="center">
 
