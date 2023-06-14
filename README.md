@@ -11,7 +11,7 @@
 
   
   <a href="https://github.com/justinmatthewnewman/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical&hide_rank=true&bg_color=160,#fff,#000" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical&hide_rank=true&bg_color=160,fff,000" alt="GitHub stats"/>
 </a>
   
 <a href="https://github.com/justinmatthewnewman/github-readme-stats">
