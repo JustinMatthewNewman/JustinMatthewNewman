@@ -52,9 +52,16 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical)
-<br />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical)](https://github.com/justinmatthewnewman/github-readme-stats)
+<div style="display: flex; justify-content: center;">
+  <div style="text-align: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+  </div>
+  <div style="text-align: center;">
+    <a href="https://github.com/justinmatthewnewman/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical" alt="Top Langs" />
+    </a>
+  </div>
+</div>
 
 ## LIVE APPS
 
