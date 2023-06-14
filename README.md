@@ -13,8 +13,9 @@
   <a href="https://github.com/justinmatthewnewman/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical&hide_rank=true" alt="GitHub stats"/>
 </a>
+  <br />
 <a href="https://github.com/justinmatthewnewman/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=8" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=10" alt="Top Langs"/>
 </a>
   
   
