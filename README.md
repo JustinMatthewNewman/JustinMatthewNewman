@@ -8,7 +8,7 @@
 
 <a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
 <a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical)](https://github.com/justinmatthewnewman/github-readme-stats)
+
 </div>
 
 <br />
@@ -54,6 +54,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical)
 <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical)](https://github.com/justinmatthewnewman/github-readme-stats)
 
 ## LIVE APPS
 
