@@ -10,11 +10,11 @@
 <a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
 
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <a href="https://github.com/justinmatthewnewman/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical&hide_rank=true" alt="GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/justinmatthewnewman/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinmatthewnewman&show_icons=true&theme=radical&size_weight=0.5&count_weight=0.5&hide_progress=true&langs_count=10" alt="Top Langs" />
 </a>
   
   
