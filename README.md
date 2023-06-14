@@ -53,7 +53,7 @@
 <div align="center">
 <div style="display: flex; justify-content: center; flex-direction: row;">
   <div style="text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=justinmatthewnewman&show_icons=true&theme=radical&include_all_commits=true" alt="Anurag's GitHub stats" />
   </div>
   <div style="text-align: center;">
     <a href="https://github.com/justinmatthewnewman/github-readme-stats">
