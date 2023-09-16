@@ -26,9 +26,7 @@
 <div align="center">
 <h1></h1>
 
-<a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)</a>
-<a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/for-you.svg)</a>
-<a href="https://text-to-song.vercel.app" target="_blank">![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)</a>
+
 
 
 
