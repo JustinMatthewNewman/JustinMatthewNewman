@@ -69,8 +69,6 @@
 
 ## :handshake: Contact
 
-Project Link: [https://github.com/JustinMatthewNewman/text-to-song.git](https://github.com/JustinMatthewNewman/text-to-song.git)
-
 <hr />
 
 
