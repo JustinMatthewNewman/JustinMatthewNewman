@@ -2,6 +2,7 @@
   <h1>Justin Newman</h1>
   efficient, persistent, innovative, collaborative.
   <h3>Moving forward faster.</h3>
+  <h4> Awaken your inner creativity. </h4>
   <!-- Badges -->
   
 <!--   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
