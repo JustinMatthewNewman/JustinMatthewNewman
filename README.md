@@ -7,8 +7,8 @@
   
 <!--   <img src="https://drive.google.com/uc?export=download&id=1IxmCC29KJbXtCs0I349yyJumSj0C3-mO" alt="logo" width="205" height="auto" />
  -->
-<a href="https://Melodifylabs.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
-<a href="https://cscode.org" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
+<a href="https://newmanjustin.com" target="_blank">![](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)</a>
+<a href="https://newmanjustin.com" target="_blank">![](https://img.shields.io/badge/Maintained-Yes-indigo)</a>
 
   
   <a href="https://github.com/justinmatthewnewman/github-readme-stats">
